@@ -5,4 +5,3 @@
 
 plots
 
-![](Capture-3.PNG)
