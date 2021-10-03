@@ -5,4 +5,4 @@
 
 plots
 
-![](Capture3.png)
+![](Capture-3.PNG)
