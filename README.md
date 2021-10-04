@@ -2,7 +2,5 @@
 # RAYLEIGH FADING
 
 
-### connsists of LOS and nLOS signals along with scattering and reflection components in AWGN channel.
-
-plots
+### Please read WirelessCommunication-RayleighFadingChannel.pdf
 
