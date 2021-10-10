@@ -2,5 +2,5 @@
 # RAYLEIGH FADING
 
 
-### Please read WirelessCommunication-RayleighFadingChannel.pdf
+### Please read Phase1_file_rahulGulia.pdf
 
